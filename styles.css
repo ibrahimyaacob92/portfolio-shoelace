@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 5%;
+    background: #283c86;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#main{
+    background-color: rgba(255, 255, 255, 0.479);
+    margin: 40px 0;
+    padding: 20px 40px;
+    height: 100vh;
+}
+
+hr{
+    border: 0.5px solid rgba(211, 211, 211, 0.466);
+}
+
+h1{
+    margin: 10px 0 ;
+}
+
+p{
+    margin: 0;
+}
+
+nav{
+    height: 30%;
+    background-color: wheat;
+}
+
+header{
+    margin: 30px 0;
+}
+
+sl-button::part(base){
+    background: rgba(255, 255, 255, 0.267);
+}
