@@ -1,14 +1,70 @@
 {
     "Python":{
-
+        "caption":"Learn Python since 2016, but start using them 2018",
+        "modules":[
+            "Django",
+            "Flask",
+            "Requests",
+            "Pandas",
+            "Matplotlib",
+            "Pywin32",
+            "Dash",
+            "Eel",
+            "Tkinter",
+            "PyODBC",
+            "Google API",
+            "Openpyxl",
+            "XlWings"
+        ]
     },
-    "Javascript":{
-
+    "Javascript":{  
+        "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them",
+        "modules":[
+            "NodeJS",
+            "Vanilla",
+            "VueJS",
+            "Web Component",
+            "Lit-Element",
+            "ElectronJS",
+            "ExcelJS",
+            "SpreadSheetJS"
+        ]
     },
-    "Flutter":{
-
+    "Backend (Server & Database)":{
+        "caption":"Data has to sit somewhere right, local file-based data storage is not the right place",
+        "modules":[
+            "Postgres",
+            "MS SQL",
+            "AWS",
+            "Heroku",
+            "Linux",
+            "NGINX"
+        ]
     },
-    "Microsoft Stuff":{
-
+    "Others":{
+        "caption":"The quick tools for prototyping",
+        "modules":[
+            "Excel",
+            "Excel VBA",
+            "Power BI",
+            "Tableau",
+            "Access",
+            "Sharepoint",
+            "Task Scheduler"
+        ]
+    },
+    "Mechanical Engineering":{
+        "caption":"Graduated as Mechanical Engineering, pretty enjoyful but not the main focus at the moment",
+        "modules":[
+            "Mechanical Vibration & Acoustics",
+            "Fluid Dynamics",
+            "Thermodynamics",
+            "Component Design",
+            "CAD Modelling",
+            "Mechatronics",
+            "Failure Analysis",
+            "Material Science",
+            "Finite Element Analysis"
+        ]
     }
 }
