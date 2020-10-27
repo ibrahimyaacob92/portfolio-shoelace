@@ -31,7 +31,6 @@ async function readJson(url){
 // render the stacks
 var stackDiv = document.getElementById("stack-render")
 readJson('./data/mystack.json').then(data =>{
-    console.log(data)
     let stackList = Object.keys(data)
     for (let stack of stackList){
         stackDiv.innerHTML += `<h4>${stack}</h4>`
@@ -42,5 +41,13 @@ readJson('./data/mystack.json').then(data =>{
         for (let module of modules){
             stackDiv.innerHTML += `<sl-tag type="primary" size="small">${module}</sl-tag>`
         }
+    }
+})
+
+// render projects
+var projectDiv = document.getElementById("project-render")
+readJson('./data/projects.json').then(projects =>{
+    for (let project of projects){
+        console.log(project)
     }
 })

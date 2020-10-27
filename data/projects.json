@@ -1,0 +1,59 @@
+[
+    {
+        "name":"Test Data Migration",
+        "period": "Dec 2019 to Present",
+        "role":"Developer",
+        "description":"Migrating Test Data from 100+ Excel Templates to Postgres Database with Django Rest Framework",
+        "stack":["Python","Django","Openpyxl","Request"],
+        "employer":["Dyson"] 
+    },
+    {
+        "name":"Test Method Framework",
+        "period": "July 2020 to Present",
+        "role":"Developer",
+        "description":"Design a framework to encapsulate test data & algorithm with Python",
+        "stack":["Python","Django","Postgres"],
+        "employer":["Dyson"]    
+    },  
+    {
+        "name":"Test Operation Dashboard",
+        "period":"June 2019",
+        "role":"Developer",
+        "description":"Visualize data from Excel Trackers & SQL Database using Tableau ",
+        "stack":["Tableau","Excel"],
+        "employer":["Dyson"]
+    },
+    {
+        "name":"Master Data Development ",
+        "period":"Dec 2019 to July 2020",
+        "role":"Project Owner",
+        "description":"Collaboratively work with people across teams to develop a master data for test department",
+        "stack":["MS Access","Django","Postgres","Ubuntu"],
+        "employer":["Dyson"]
+    },
+    {
+        "name":"Excel Development Panel",
+        "period":"June 2020 to Present",
+        "role":"Chairman & Developer",
+        "description":"Founder of the forum to discuss about how to better develop tool using Excel that is compatible with standard & future proof practice",
+        "stack":["Excel VBA","Python","Javascript"],
+        "employer":["Dyson"]
+    },
+    {
+        "name":"",
+        "period":"",
+        "role":"",
+        "description":"",
+        "stack":[],
+        "employer":[]
+    },
+    {
+        "name":"",
+        "period":"",
+        "role":"",
+        "description":"",
+        "stack":[],
+        "employer":[]
+    }
+
+]
