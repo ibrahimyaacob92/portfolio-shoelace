@@ -5,7 +5,9 @@
         "role":"Developer",
         "description":"Migrating Test Data from 100+ Excel Templates to Postgres Database with Django Rest Framework",
         "stack":["Python","Django","Openpyxl","Request"],
-        "employer":["Dyson"] 
+        "employer":"Dyson",
+        "detail":"Imagine that we have 100+ different testing methods, all with unique data structure. For XX years it's been practice that all the data is in Excel template now need to be migrated to an SQL database"
+        
     },
     {
         "name":"Test Method Framework",
@@ -13,7 +15,8 @@
         "role":"Developer",
         "description":"Design a framework to encapsulate test data & algorithm with Python",
         "stack":["Python","Django","Postgres"],
-        "employer":["Dyson"]    
+        "employer":"Dyson",
+        "detail":"Excel template are basically not the future proof tool for any company. A web based system would be the right tool for a job. Form a working group that designs a framework for a test template with very little entry level."
     },  
     {
         "name":"Test Operation Dashboard",
@@ -21,7 +24,8 @@
         "role":"Developer",
         "description":"Visualize data from Excel Trackers & SQL Database using Tableau ",
         "stack":["Tableau","Excel"],
-        "employer":["Dyson"]
+        "employer":"Dyson",
+        "detail":"A simple visualization for capacity planning tool for the operation. Visualization is then being published to the company's Tableau server and updates the Excel Tracker (in shared drive) periodically."
     },
     {
         "name":"Master Data Development ",
@@ -29,7 +33,8 @@
         "role":"Project Owner",
         "description":"Collaboratively work with people across teams to develop a master data for test department",
         "stack":["MS Access","Django","Postgres","Ubuntu"],
-        "employer":["Dyson"]
+        "employer":"Dyson",
+        "detail":"Excel within share drive is not a proper tool to store master data ! And it should not have a scattered ownership. Data are meant to be communicate with each other and a working group is form to tackle this problem. Brainstorming session takes place from different team and a prototype is build on top of MS Access which allows data to structure in SQL structure. Proper solution is then being made with Django & Postgres deployed in dedicated Ubuntu Server"
     },
     {
         "name":"Excel Development Panel",
@@ -37,15 +42,8 @@
         "role":"Chairman & Developer",
         "description":"Founder of the forum to discuss about how to better develop tool using Excel that is compatible with standard & future proof practice",
         "stack":["Excel VBA","Python","Javascript"],
-        "employer":["Dyson"]
-    },
-    {
-        "name":"",
-        "period":"",
-        "role":"",
-        "description":"",
-        "stack":[],
-        "employer":[]
+        "employer":"Dyson",
+        "detail":"Driving people to discuss and develop a standard solution to Excel Templates. This helps people to build a better scalable & maintainable Excel templates. Few example is using Bitbucket version control to control template version."
     },
     {
         "name":"",
@@ -55,5 +53,4 @@
         "stack":[],
         "employer":[]
     }
-
 ]

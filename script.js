@@ -44,10 +44,25 @@ readJson('./data/mystack.json').then(data =>{
     }
 })
 
+// re-render stacks with tags only
+
 // render projects
 var projectDiv = document.getElementById("project-render")
 readJson('./data/projects.json').then(projects =>{
     for (let project of projects){
-        console.log(project)
+        projectDiv.innerHTML += `
+        <h4 class="project">${project.name}</h4>
+        <p class="info">${project.period} &#183 ${project.role} &#183 ${project.employer}</p>
+        <p class="caption">${project.description}</p>
+        <p class="detail hidden">${project.detail}</p>
+        `
+        for (let stack of project.stack){
+            console.log(stack)
+            projectDiv.innerHTML +=`<sl-tag type="primary" size="small">${stack}</sl-tag>`
+        }
     }
+
 })
+
+
+
