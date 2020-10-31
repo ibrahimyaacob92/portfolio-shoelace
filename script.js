@@ -65,4 +65,12 @@ readJson('./data/projects.json').then(projects =>{
 })
 
 
-
+var copyOnclickEl = document.querySelectorAll("[data-copy]")
+for (let el of copyOnclickEl){
+    var copyThis = el.dataset.copy
+    el.addEventListener('click',()=>{
+        navigator.clipboard.writeText(copyThis).then(
+            alert(copyThis + " is copied to the clipboard")
+        )
+    })
+}
