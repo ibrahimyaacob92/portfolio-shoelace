@@ -2,7 +2,7 @@
     {
         "name":"Test Data Migration",
         "period": "Dec 2019 to Present",
-        "role":"Developer",
+        "role":"Project Lead & Developer",
         "description":"Migrating Test Data from 100+ Excel Templates to Postgres Database with Django Rest Framework",
         "stack":["Python","Django","Openpyxl","Request"],
         "employer":"Dyson",
@@ -46,10 +46,20 @@
         "detail":"Driving people to discuss and develop a standard solution to Excel Templates. This helps people to build a better scalable & maintainable Excel templates. Few example is using Bitbucket version control to control template version. The group also open to any possible alternative such as Python or Javascript"
     },
     {
+        "name":"Lab Scheduling Tool & File Management System",
+        "period":"May 2018",
+        "role":"Developer",
+        "description":"A simple lab scheduling tool with visualization for capacity planning",
+        "detail":"Build on top of Excel and Excel VBA, manipulating the cells to render the viz. Realized that Excel has performance issue to do this kind of things. Few labs is still using them today",
+        "stack":["Excel VBA"],
+        "employer":"Dyson"
+    },
+    {
         "name":"",
         "period":"",
         "role":"",
         "description":"",
+        "detail":"",
         "stack":[],
         "employer":[]
     }

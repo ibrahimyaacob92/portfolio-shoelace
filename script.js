@@ -1,8 +1,8 @@
 const professionGlitch = [
     "Chef",
-    "Engineer",
-    "Con Man",
-    "Clown",
+    "Somebody",
+    "Gamer",
+    "Collaborator",
     "Doctor",
     "Husband",
     "Janitor",
@@ -47,7 +47,7 @@ readJson('./data/mystack.json').then(data =>{
 // re-render stacks with tags only
 
 // render projects
-var projectDiv = document.getElementById("project-render")
+var projectDiv = document.getElementById("work-render")
 readJson('./data/projects.json').then(projects =>{
     for (let project of projects){
         projectDiv.innerHTML += `
@@ -61,7 +61,6 @@ readJson('./data/projects.json').then(projects =>{
             projectDiv.innerHTML +=`<sl-tag type="primary" size="small">${stack}</sl-tag>`
         }
     }
-
 })
 
 

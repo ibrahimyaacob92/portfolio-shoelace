@@ -17,7 +17,7 @@
             "XlWings"
         ]
     },
-    "Javascript":{  
+    "Javascript & Front-End":{  
         "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them",
         "modules":[
             "NodeJS",
@@ -27,10 +27,15 @@
             "Lit-Element",
             "ElectronJS",
             "ExcelJS",
-            "SpreadSheetJS"
+            "SpreadSheetJS",
+            "ChartJS",
+            "CSS Grid",
+            "CSS Flexbox",
+            "CSS Variables",
+            "CSS Animation"
         ]
     },
-    "Backend (Server & Database)":{
+    "Back-End (Server & Database)":{
         "caption":"Data has to sit somewhere right, local file-based data storage is not the right place",
         "modules":[
             "Postgres",
@@ -65,6 +70,17 @@
             "Failure Analysis",
             "Material Science",
             "Finite Element Analysis"
+        ]
+    },
+    "Wishlist":{
+        "caption":"More stuff to learn moving forward. It's gonna be exciting !",
+        "modules":[
+            "Flutter",
+            "ReactJS",
+            "VueJS",
+            "MongoDB",
+            "Golang",
+            "Rust"
         ]
     }
 }
