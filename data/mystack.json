@@ -1,6 +1,6 @@
 {
     "Python":{
-        "caption":"Learn Python since 2016, but start using them 2018",
+        "caption":"Learn Python since 2016, but start using them on 2018",
         "modules":[
             "Django",
             "Flask",
@@ -18,7 +18,7 @@
         ]
     },
     "Javascript & Front-End":{  
-        "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them",
+        "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them.",
         "modules":[
             "NodeJS",
             "Vanilla",
@@ -36,7 +36,7 @@
         ]
     },
     "Back-End (Server & Database)":{
-        "caption":"Data has to sit somewhere right, local file-based data storage is not the right place",
+        "caption":"Data has to sit somewhere right, local file-based data storage is not the right place.",
         "modules":[
             "Postgres",
             "MS SQL",
