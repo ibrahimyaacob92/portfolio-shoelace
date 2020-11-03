@@ -6,7 +6,7 @@
         "description":"Migrating Test Data from 100+ Excel Templates to Postgres Database with Django Rest Framework",
         "stack":["Python","Django","Openpyxl","Request"],
         "employer":"Dyson",
-        "detail":"Imagine that we have 100+ different testing methods, all with unique data structure. For XX years it's been practice that all the data is in Excel template now need to be migrated to an SQL database"
+        "detail":"Imagine that we have 100+ different testing methods, all with unique data structure.For XX years it's been practice that all the data is in Excel template now need to be migrated to an SQL database"
         
     },
     {

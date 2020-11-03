@@ -47,7 +47,7 @@
         ]
     },
     "Others":{
-        "caption":"The quick tools for prototyping system, automation & visualization",
+        "caption":"The quick tools for prototyping, automation, visualization, project management & documentation",
         "modules":[
             "Excel",
             "Excel VBA",
@@ -55,7 +55,10 @@
             "Tableau",
             "Access",
             "Sharepoint",
-            "Task Scheduler"
+            "Task Scheduler",
+            "JIRA",
+            "Version Control",
+            "Confluence"
         ]
     },
     "Mechanical Engineering":{

@@ -64,6 +64,7 @@ readJson('./data/projects.json').then(projects =>{
 })
 
 
+// this is awesome
 var copyOnclickEl = document.querySelectorAll("[data-copy]")
 for (let el of copyOnclickEl){
     var copyThis = el.dataset.copy
