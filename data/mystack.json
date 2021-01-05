@@ -1,6 +1,7 @@
 {
     "Python":{
         "caption":"Learn Python since 2016, but start using them on 2018",
+        "year_exp":4,
         "modules":[
             "Django",
             "Flask",
@@ -19,10 +20,11 @@
     },
     "Javascript & Front-End":{  
         "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them.",
+        "year_exp":4,
         "modules":[
+            "ReactJS",
             "NodeJS",
             "Vanilla",
-            "VueJS",
             "Web Component",
             "Lit-Element",
             "ElectronJS",
@@ -79,7 +81,6 @@
         "caption":"More stuff to learn moving forward. It's gonna be exciting !",
         "modules":[
             "Flutter",
-            "ReactJS",
             "VueJS",
             "MongoDB",
             "Golang",
