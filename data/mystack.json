@@ -18,12 +18,15 @@
             "XlWings"
         ]
     },
-    "Javascript & Front-End":{  
+    "Javascript":{  
         "caption":"Seems like all those pretty & interactive things is developed in Javascript, so I learn them.",
-        "year_exp":4,
+        "year_exp":3,
         "modules":[
             "ReactJS",
+            "React Hooks",
+            "Redux",
             "NodeJS",
+            "Axios",
             "Vanilla",
             "Web Component",
             "Lit-Element",
@@ -31,25 +34,40 @@
             "ExcelJS",
             "SpreadSheetJS",
             "ChartJS",
-            "CSS Grid",
-            "CSS Flexbox",
-            "CSS Variables",
-            "CSS Animation"
+            "CKEditor"
         ]
     },
-    "Back-End (Server & Database)":{
+    "CSS & Design Tool":{
+        "caption":"Basic Stuff",
+        "year_exp":5
+        "module":[
+            "CSS Grid",
+            "CSS Flexbox",
+            "CSS Media Query",
+            "CSS Animation",
+            "React-Icons"
+        ]        
+    }
+    
+    "DevOps":{
         "caption":"Data has to sit somewhere right, local file-based data storage is not the right place.",
+        "year_exp":2
         "modules":[
             "Postgres",
             "MS SQL",
-            "AWS",
+            "AWS EC2",
             "Heroku",
-            "Linux",
-            "NGINX"
+            "Linux Ubuntu",
+            "NGINX",
+            "GIT"
+            "JIRA",
+            "Version Control",
+            "Confluence"
         ]
     },
     "Others":{
         "caption":"The quick tools for prototyping, automation, visualization, project management & documentation",
+        "year_exp": 6
         "modules":[
             "Excel",
             "Excel VBA",
@@ -58,9 +76,6 @@
             "Access",
             "Sharepoint",
             "Task Scheduler",
-            "JIRA",
-            "Version Control",
-            "Confluence"
         ]
     },
     "Mechanical Engineering":{
@@ -75,16 +90,6 @@
             "Failure Analysis",
             "Material Science",
             "Finite Element Analysis"
-        ]
-    },
-    "Wishlist":{
-        "caption":"More stuff to learn moving forward. It's gonna be exciting !",
-        "modules":[
-            "Flutter",
-            "VueJS",
-            "MongoDB",
-            "Golang",
-            "Rust"
         ]
     }
 }
