@@ -39,7 +39,7 @@
     },
     "CSS & Design Tool":{
         "caption":"Basic Stuff",
-        "year_exp":5
+        "year_exp":5,
         "module":[
             "CSS Grid",
             "CSS Flexbox",
@@ -47,11 +47,11 @@
             "CSS Animation",
             "React-Icons"
         ]        
-    }
+    },
     
     "DevOps":{
         "caption":"Data has to sit somewhere right, local file-based data storage is not the right place.",
-        "year_exp":2
+        "year_exp":2,
         "modules":[
             "Postgres",
             "MS SQL",
@@ -59,15 +59,14 @@
             "Heroku",
             "Linux Ubuntu",
             "NGINX",
-            "GIT"
+            "GIT",
             "JIRA",
-            "Version Control",
             "Confluence"
         ]
     },
     "Others":{
         "caption":"The quick tools for prototyping, automation, visualization, project management & documentation",
-        "year_exp": 6
+        "year_exp": 6,
         "modules":[
             "Excel",
             "Excel VBA",
@@ -75,7 +74,7 @@
             "Tableau",
             "Access",
             "Sharepoint",
-            "Task Scheduler",
+            "Task Scheduler"
         ]
     },
     "Mechanical Engineering":{
