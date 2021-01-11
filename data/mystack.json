@@ -40,7 +40,7 @@
     "CSS & Design Tool":{
         "caption":"Basic Stuff",
         "year_exp":5,
-        "module":[
+        "modules":[
             "CSS Grid",
             "CSS Flexbox",
             "CSS Media Query",
@@ -79,6 +79,7 @@
     },
     "Mechanical Engineering":{
         "caption":"Graduated as Mechanical Engineering, pretty enjoyful but not the main focus at the moment",
+        "year_exp": 6,
         "modules":[
             "Mechanical Vibration & Acoustics",
             "Fluid Dynamics",
