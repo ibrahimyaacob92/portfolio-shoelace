@@ -53,14 +53,5 @@
         "detail":"Build on top of Excel and Excel VBA, manipulating the cells to render the viz. Realized that Excel has performance issue to do this kind of things. Few labs is still using them today",
         "stack":["Excel VBA"],
         "employer":"Dyson"
-    },
-    {
-        "name":"",
-        "period":"",
-        "role":"",
-        "description":"",
-        "detail":"",
-        "stack":[],
-        "employer":[]
     }
 ]
